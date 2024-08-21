@@ -57,8 +57,8 @@
 [![image](https://github.com/user-attachments/assets/82fd4137-4d7d-4236-9d29-a5f9137c96f1)](https://drive.google.com/file/d/1S_moCn7z463ir6w8XfdvnAgnaF9YmJXw/view?usp=sharing)
 
 # Contributers:
-**[Mohamed Magdi](https://github.com/Mo-Alsehli)**
-**[Mohamed Nour](https://github.com/MohamedNour1452)**
-**[Mahmoud Mousa](https://github.com/Mousa16)**
-**[Abdulrahman Osama](https://github.com/AbdelrahmanOsamaa)**
-**[Abdullah Karkour](https://github.com/karkour1)**
+1. *[Mohamed Magdi](https://github.com/Mo-Alsehli)*
+2. *[Mohamed Nour](https://github.com/MohamedNour1452)*
+3. *[Mahmoud Mousa](https://github.com/Mousa16)*
+4. *[Abdulrahman Osama](https://github.com/AbdelrahmanOsamaa)*
+5. *[Abdullah Karkour](https://github.com/karkour1)*
