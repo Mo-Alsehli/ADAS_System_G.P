@@ -1,0 +1,7 @@
+LCD.c:14:6:fallingEdge	8	static
+LCD.c:21:6:lcdGotoXY	16	static
+LCD.c:30:6:sendChar	16	static
+LCD.c:43:6:sendStr	24	static
+LCD.c:67:6:sendCommand	16	static
+LCD.c:79:6:LCDInit	8	static
+LCD.c:96:6:displayClear	8	static

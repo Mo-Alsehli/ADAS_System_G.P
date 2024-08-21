@@ -1,0 +1,3 @@
+HAL/PID/PID.o: ../HAL/PID/PID.c ../HAL/PID/PID.h
+
+../HAL/PID/PID.h:

@@ -1,0 +1,9 @@
+TIM.c:23:17:counts_time	24	static
+TIM.c:42:6:delay	40	static
+TIM.c:125:10:timeCalc	32	static
+TIM.c:175:6:TIM1CalcMicrosInit	4	static
+TIM.c:194:10:TIM1CalcMicros	16	static
+TIM.c:207:6:TIM2_IRQHandler	4	static
+TIM.c:215:6:TIM1_UP_IRQHandler	4	static
+TIM.c:222:6:TIM3_IRQHandler	4	static
+TIM.c:227:6:TIM4_IRQHandler	4	static
