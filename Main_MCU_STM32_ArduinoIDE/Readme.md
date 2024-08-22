@@ -43,6 +43,14 @@
         - We have implemented an algorithm that calculates the current state of the car and take action.
         - In some cases when the threshold is within a specific range the algorithm issues a warning.
         - In critical cases, the algorithm immediately issues an Emergency braking stop.
+        
+*Forward Collision Tests*
+
+https://github.com/user-attachments/assets/62541637-3953-4f7b-9e44-6627d6ac4fbe
+
+https://github.com/user-attachments/assets/f91d27ec-1a09-4420-b17c-98da297efb19
+
+https://github.com/user-attachments/assets/819ed4c3-dac9-4710-8da3-3ccab70b73d7
 
 ## 6. Cruise Control:
 ## PID 
